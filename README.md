@@ -41,6 +41,7 @@
 
 С более подробной версией исследования можно ознакомиться по [ссылке](https://github.com/VladKozlovskiy/News-influence-on-stock-market/blob/main/Volatility_forecasting.ipynb)
 
+Подробнее о статистическом тесте по [ссылке](https://github.com/VladKozlovskiy/News-influence-on-stock-market/blob/main/new_data_and_stat_test.ipynb)
 
 ## TODO
 
